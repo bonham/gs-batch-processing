@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BatchProcessingApplication<batch-processing-complete>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.batchprocessing.BatchProcessingApplication",
+      "projectName": "batch-processing-complete",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
